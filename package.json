@@ -55,5 +55,8 @@
   },
   "engines": {
     "node": ">=12"
+  },
+  "dependencies": {
+    "pug": "^3.0.2"
   }
 }

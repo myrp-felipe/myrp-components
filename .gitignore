@@ -1,7 +1,7 @@
 .DS_Store
 node_modules/
 /dist/
-myrp-components-1.0.0.tgz
+myrp-components-*.tgz
 
 # local env files
 .env.local

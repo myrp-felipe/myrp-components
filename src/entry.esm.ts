@@ -12,6 +12,7 @@ const install: Exclude<Plugin['install'], undefined> = function installMyrpCompo
 
 // Create module definition for Vue.use()
 export default install;
+declare let myrp: any;
 
 // To allow individual component use, export components
 // each can be registered via Vue.component()

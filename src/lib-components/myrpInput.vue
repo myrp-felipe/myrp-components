@@ -10,9 +10,6 @@
 
 <script lang="ts">
 import { defineComponent, ref } from 'vue'
-declare let myrp: any;
-declare let Vue: any;
-declare let Materialize: any;
 
 interface IDadosComponente {
   id: string,
